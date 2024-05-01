@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\oop_2laba\oop_2laba\obj\Debug\net6.0\oop_2laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\oop_2laba\oop_2laba\obj\Debug\net6.0\oop_2laba.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\oop_2laba\oop_2laba\obj\Debug\net6.0\oop_2laba.AssemblyInfo.cs
+C:\Users\Admin\source\repos\oop_2laba\oop_2laba\obj\Debug\net6.0\oop_2laba.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\oop_2laba\oop_2laba\bin\Debug\net6.0\oop_2laba.exe
+C:\Users\Admin\source\repos\oop_2laba\oop_2laba\bin\Debug\net6.0\oop_2laba.deps.json
+C:\Users\Admin\source\repos\oop_2laba\oop_2laba\bin\Debug\net6.0\oop_2laba.runtimeconfig.json
+C:\Users\Admin\source\repos\oop_2laba\oop_2laba\bin\Debug\net6.0\oop_2laba.dll
+C:\Users\Admin\source\repos\oop_2laba\oop_2laba\bin\Debug\net6.0\oop_2laba.pdb
+C:\Users\Admin\source\repos\oop_2laba\oop_2laba\obj\Debug\net6.0\oop_2laba.dll
+C:\Users\Admin\source\repos\oop_2laba\oop_2laba\obj\Debug\net6.0\refint\oop_2laba.dll
+C:\Users\Admin\source\repos\oop_2laba\oop_2laba\obj\Debug\net6.0\oop_2laba.pdb
+C:\Users\Admin\source\repos\oop_2laba\oop_2laba\obj\Debug\net6.0\oop_2laba.genruntimeconfig.cache
+C:\Users\Admin\source\repos\oop_2laba\oop_2laba\obj\Debug\net6.0\ref\oop_2laba.dll
